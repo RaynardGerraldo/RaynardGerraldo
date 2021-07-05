@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaynardGerraldo
+- 👋 Hi, I’m @RaynardGerraldo , you can call me Ray
 - 👀 I’m interested in anything related to Computers
 - 🌱 I’m currently learning programming in python, but will learn more languages
 - 💞️ I’m looking to collaborate on projects, looking for some experience on working in collaboration
