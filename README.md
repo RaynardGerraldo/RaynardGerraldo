@@ -10,6 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Ray's github stats](https://github-readme-stats.vercel.app/api?username=RaynardGerraldo)](https://github.com/RaynardGerraldo/github-readme-stats)
-![Ray's github stats](https://github-readme-stats.vercel.app/api?username=RaynardGerraldo&count_private=true)
-
 
