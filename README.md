@@ -9,5 +9,6 @@ RaynardGerraldo/RaynardGerraldo is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Ray's github stats](https://github-readme-stats.vercel.app/api?username=RaynardGerraldo)](https://github.com/RaynardGerraldo/github-readme-stats)
+[![Ray's github stats](https://github-readme-stats.vercel.app/api?username=RaynardGerraldo&show_icons=true&theme=tokyonight)
+)](https://github.com/RaynardGerraldo/github-readme-stats)
 
