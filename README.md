@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaynardGerraldo , you can call me Ray
 - 👀 I’m interested in anything related to Computers
-- 📫 How to reach me : Insta @raynardgl or Discord @squad30o#5480
+- 📫 How to reach me : Discord @squad30o#5480
 
 ![Ray's github stats](https://github-readme-stats.vercel.app/api?username=RaynardGerraldo&show_icons=true&theme=tokyonight)
 ![Ray's streak](https://github-readme-streak-stats.herokuapp.com/?user=RaynardGerraldo&theme=tokyonight&hide_border=false)<br/>
