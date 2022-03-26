@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaynardGerraldo , you can call me Ray
+- 👋 Hi, I’m Ray
 - 👀 I’m interested in anything related to Computers
 - 📫 How to reach me : Discord @squad30o#5480
 
