@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ray
 - 👀 I’m interested in anything related to Computers
-- 📫 How to reach me : Email me hello@raygl.me
+- 📫 How to reach me : Email me raynardgerraldo@gmail.com
 
 ![Ray's github stats](https://github-readme-stats.vercel.app/api?username=RaynardGerraldo&show_icons=true&theme=tokyonight)
 ![Ray's streak](https://github-readme-streak-stats.herokuapp.com/?user=RaynardGerraldo&theme=tokyonight&hide_border=false)<br/>
