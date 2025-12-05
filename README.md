@@ -1,27 +1,33 @@
-- 👋 Hi, I’m Ray
-- 👀 I’m interested in anything related to Computers
-- 📫 How to reach me : Email me raynardgerraldo@gmail.com
+I love computers and computer accessories
 
-![Ray's github stats](https://github-readme-stats.vercel.app/api?username=RaynardGerraldo&show_icons=true&theme=tokyonight)
-![Ray's streak](https://github-readme-streak-stats.herokuapp.com/?user=RaynardGerraldo&theme=tokyonight&hide_border=false)<br/>
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaynardGerraldo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+  <a href="https://github.com/RaynardGerraldo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaynardGerraldo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/RaynardGerraldo">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaynardGerraldo&theme=github_dark" alt="Repos per Language" />
+  </a>
+</div>
 
+### Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![More](https://img.shields.io/badge/...-And_More-gray?style=flat-square)
 
-### Languages
+### Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![More](https://img.shields.io/badge/...-And_More-gray?style=flat-square)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Contact
+[raynardgerraldo@gmail.com](mailto:raynardgerraldo@gmail.com)
 
-### Tools
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<!---
-RaynardGerraldo/RaynardGerraldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
++JMJ+
