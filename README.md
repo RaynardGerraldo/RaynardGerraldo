@@ -1,4 +1,4 @@
-I love computers and computer accessories
+[My name is Ray, and I love computers and computer accessories](https://www.youtube.com/watch?v=eopieoRvAis)
 
 <div align="left">
   <a href="https://github.com/RaynardGerraldo">
