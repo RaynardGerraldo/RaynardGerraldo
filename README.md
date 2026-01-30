@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/RaynardGerraldo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaynardGerraldo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-steel-seven.vercel.app/?user=RaynardGerraldo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/RaynardGerraldo">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaynardGerraldo&theme=github_dark" alt="Repos per Language" />
